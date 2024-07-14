@@ -9,5 +9,6 @@ interest_amount = input("What is your yearly interest rate persentage?")
 bank_account = float(bank_account)
 interest_amount = float(interest_amount)/100
 bank_account+=bank_account*(interest_amount)
-print("At the end of the year, you will have,", bank_account)
+bank_account = format(bank_account,".2f")
+print("At the end of the year you will have $", bank_account)
 
