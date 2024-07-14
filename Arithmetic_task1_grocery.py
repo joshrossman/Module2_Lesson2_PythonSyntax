@@ -3,7 +3,7 @@
 # For example, what would be the cost of bread, peanut butter, and jelly be? 
 # Prices don't need to be realistic!
 
-print("Grocey Calculator")
+print("Grocery Calculator")
 
 item_one =input("First item?")+","
 price_one = input("Price?")
