@@ -19,4 +19,4 @@ total = float(price_one)+float(price_two)+float(price_three)
 total = format(total,".2f")
 
 #prints final answer
-print(item_one,item_two,"and,",item_three, "cost: $", total)  # extra_zero)
+print(item_one,item_two,"and,",item_three, "cost: $", total)  
