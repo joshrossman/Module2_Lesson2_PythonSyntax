@@ -3,7 +3,7 @@
 # and constant names that don't follow the Python naming convention. 
 # Your task is to correct them:
 
-PIVALUE = 3.14
+PI_VALUE = 3.14
 user_age = 25
 user_location = "New York"
-MAXLIMIT = 1000
+MAX_LIMIT = 1000
